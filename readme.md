@@ -8,6 +8,11 @@ There's a bit of starter code, so you can jump right into it.
 
 The provided template contains all the files, images, and text content needed to create the page. Take a moment to explore everything that is here.
 
+
+## Play the Game!
+
+[Link](https://ga-sei-lessons.github.io/canvas-crawler-deploy-925/) to like deployment.
+
 ## Goals
 
 * Use HTML5 Canvas to make an "ogre" (this can just be a box) and a "hero" (this can also just be a box)
